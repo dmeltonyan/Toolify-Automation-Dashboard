@@ -1,0 +1,3 @@
+- API Swagger: http://localhost:5130/swagger
+- UI (Angular): http://localhost:4200
+- DB Notes: docs/DB_ACCESS.md
